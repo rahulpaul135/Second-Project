@@ -1,0 +1,29 @@
+body{color: #f2aa4cff;
+background-color: #101820ff;}
+
+h1{ text-align: center;}
+tr{ text-align: center;}
+
+
+.si{color: white;
+background-color: black;
+}
+.tag_name{color: white;
+    background-color: black ;
+    }
+.description{
+    color: white;
+    background-color: black;
+}
+.example{
+    color: white;
+    background-color: black;
+}
+.heading_one,.image,.paragraph,.thematic,.address,.directional_override,.cite_tag,.deleted,.keyboard,.meter,.progress,.s_line,.small,.subscript,.time,.variable,.button,.audio,.link,.ordered_list,.define,.style,.article,.details,.data,.ruby,.emphasized,.template,.textarea,.option_group,.fieldset,.data_list,.figure_caption,.navigation,.colgroup,.source{
+    color: #000000;
+    background-color: #6dd47e;
+}
+.heading_two,.italic,.break,.abbreviation,.bold,.blockquote,.code_tag,.insert,.mark,.performatted,.short_quoation,.sample,.strong,.supscript,.underline,.button,.video,.unordered_buletted,.description_list,.describe,.division,.aside,.dialog,.noscript,.output,.provide_parenttheses,.form,.select,.label,.legend,.canvas,.graphics,.param,.object,.heading_five{
+    color: #fdb408;
+    background-color: #143D59;
+} 
